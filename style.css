@@ -1,0 +1,21 @@
+table {
+  border-collapse: collapse;
+  width: max-content;
+}
+
+th {
+  font-weight: bold;
+}
+
+.table1 {
+  border-collapse: collapse;
+  border: 5px solid red;
+  padding: 10px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.table2 {
+  border-collapse: collapse;
+  border: 5px solid red;
+}
